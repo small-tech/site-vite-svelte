@@ -13,7 +13,7 @@ By using [Site.js](https://sitejs.org) you can extend your static Vite + Svelte 
 1. Clone the template.
 
     ```shell
-    npx degit small-tech/site-vite-svelte my-project-name
+    npx tiged small-tech/site-vite-svelte my-project-name
     ```
 
     This will download this template using [degit](https://github.com/Rich-Harris/degit) into a directory called `my-project-name`.
