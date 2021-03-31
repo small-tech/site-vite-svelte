@@ -1,0 +1,42 @@
+{
+  "name": "@small-tech/site-vite-svelte",
+  "version": "1.0.0",
+  "description": "Site.js + Vite + Svelte starter template.",
+  "type": "module",
+  "scripts": {
+    "dev": "./dev.sh",
+    "vite": "vite",
+    "build": "vite build",
+    "serve": "npm run build && site",
+    "postinstall": "node .postinstall/generate-certificates.js"
+  },
+  "keywords": [
+    "Site.js",
+    "Vite",
+    "Svelte",
+    "starter",
+    "template"
+  ],
+  "homepage": "https://github.com/small-tech/site-vite-svelte#readme",
+  "bugs": {
+    "url": "https://github.com/small-tech/site-vite-svelte/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/small-tech/site-vite-svelte.git"
+  },
+  "devDependencies": {
+    "@small-tech/auto-encrypt-localhost": "^7.0.7",
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.5",
+    "svelte": "^3.35.0",
+    "vite": "^2.1.3"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.4.0"
+  },
+  "funding": {
+    "type": "foundation",
+    "url": "https://small-tech.org/fund-us/"
+  },
+  "license": "AGPL-3.0"
+}
