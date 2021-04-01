@@ -20,7 +20,7 @@ By using [Site.js](https://sitejs.org) you can extend your static Vite + Svelte 
 
     (Or just clone this repository the old-fashioned way using `git`.)
 
-2. Install dependencies:
+2. Install dependencies.
 
     ```shell
     cd my-project
