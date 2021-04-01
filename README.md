@@ -10,7 +10,7 @@ By using [Site.js](https://sitejs.org) you can extend your static Vite + Svelte 
 
 ## Install
 
-1. Clone the template.
+1. Download the template.
 
     ```shell
     npm init using small-tech/site-vite-svelte my-project
