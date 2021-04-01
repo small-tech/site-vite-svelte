@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/small-tech/site-vite-svelte.git"
+    "url": "https://github.com/small-tech/site-vite-svelte.git"
   },
   "devDependencies": {
     "@small-tech/auto-encrypt-localhost": "^7.0.7",
