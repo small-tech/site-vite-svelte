@@ -13,17 +13,17 @@ By using [Site.js](https://sitejs.org) you can extend your static Vite + Svelte 
 1. Clone the template.
 
     ```shell
-    npx tiged small-tech/site-vite-svelte my-project-name
+    npx fetch-from small-tech/site-vite-svelte my-project
     ```
 
-    This will download this template using [degit](https://github.com/Rich-Harris/degit) into a directory called `my-project-name`.
+    This will download this template using [fetch-from](https://github.com/aral/fetch-from/tree/name-change#readme) into a directory called `my-project`.
 
     (Or just clone this repository the old-fashioned way using `git`.)
 
 2. Install dependencies:
 
     ```shell
-    cd my-project-name
+    cd my-project
     npm i
     ```
 
