@@ -10,7 +10,9 @@ By using [Site.js](https://sitejs.org) you can extend your static Vite + Svelte 
 
 ## Install
 
-1. Download the template.
+1. ### __Either:__
+
+    _Download the template:_
 
     ```shell
     npm init using small-tech/site-vite-svelte my-project
@@ -18,9 +20,19 @@ By using [Site.js](https://sitejs.org) you can extend your static Vite + Svelte 
 
     This will download this template using [create-using](https://github.com/aral/create-using/tree/create-using#readme) into a directory called `my-project`.
 
-    (Or just clone this repository the old-fashioned way using `git`.)
+    ### __Or__:
 
-2. Install dependencies.
+    _Use the template on GitHub:_
+
+    Click the green “Use this template” button on [the GitHub page](https://github.com/small-tech/site-vite-svelte) to create your own repository using this template.
+
+    ### __Or__:
+
+    _Do it old-skool:_
+
+    Just fork this repository and clone it as you normally do using `git`.
+
+2. ### __Install dependencies.__
 
     ```shell
     cd my-project
